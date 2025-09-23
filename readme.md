@@ -1,6 +1,6 @@
-# Books
+# Self Taugh Materials
 
-## Contents
+## Books
 
  - Computer Science
    - [What every programmer should know about memory]()
@@ -12,3 +12,15 @@
    - [Analysis II: Analysis II Terence Tao]()
  - Physics
    - [The Feynman Lectures on Physics]()
+
+## Notes
+
+ - Mathematics
+   - [Algebra]()
+   - [Geometry, Solid, Plane and Analytic]()
+   - [Trigonometry]()
+   - [Calculus]()
+   - [Probability]()
+   - [Linear Algebra]()
+   - [Analysis]()
+
