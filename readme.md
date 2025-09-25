@@ -13,14 +13,3 @@
  - Physics
    - [The Feynman Lectures on Physics]()
 
-## Notes
-
- - Mathematics
-   - [Algebra]()
-   - [Geometry, Solid, Plane and Analytic]()
-   - [Trigonometry]()
-   - [Calculus]()
-   - [Probability]()
-   - [Linear Algebra]()
-   - [Analysis]()
-
